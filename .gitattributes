@@ -1,0 +1,13 @@
+# Автоматическое определение текстовых файлов
+* text=auto
+
+# Исходники 1С
+*.bsl text eol=lf
+*.xml text eol=lf
+
+# Документация
+*.md text eol=lf
+
+# Бинарные файлы 1С
+*.epf binary
+*.erf binary
